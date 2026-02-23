@@ -51,5 +51,5 @@ This repository contains hands-on projects where I applied data preprocessing, e
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Dibyang-Mukh/Codsoft.git
+https://github.com/Dibyang-Mukh/machine-learning.git
 ```
